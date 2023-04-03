@@ -435,8 +435,7 @@ td{
     
         }
 
-.message input{
-    
+.message textarea{
     width: 300px;
     height: 30px;
     border-bottom-width: 3px;
@@ -447,15 +446,30 @@ td{
     border-left-width: 0px;
     border-right-width: 0px;
     border-top-width: 0px;
-   
+
 }
 
+.form2 button{
+
+    height: 30px;;
+    width: 300px;
+    border-radius: 2px;
+    border: none;
+    background-color: white;
+    font-family: Poppins ;
+    font-weight: bold;
+    color: #003366;
+    margin-top: 90px;
+    margin-left: 450px;
+
+   
+}
 
 
 footer{
     background-color: #003366;
     height: 100px;
-    width: 100%;
+    width: 100%px;
     margin-top: 100px;
     font-family: Poppins;
     color: white;
